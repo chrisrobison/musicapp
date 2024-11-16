@@ -41,7 +41,7 @@
     "@testing-library/user-event": "13.5.0",
     "axios": "1.7.4",
     "craco-alias": "3.0.1",
-    "formik": "2.2.9",
+    "formik": "2.4.6",
     "gatekeeper-client-sdk": "0.4.2",
     "i18next": "23.4.4",
     "i18next-browser-languagedetector": "6.1.3",
