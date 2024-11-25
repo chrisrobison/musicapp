@@ -79,7 +79,7 @@
     "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-unused-imports": "4.1.4",
-    "husky": "7.0.4",
+    "husky": "9.1.7",
     "lint-staged": "12.3.4",
     "prettier": "3.3.3",
     "react-error-overlay": "^6.0.9",
